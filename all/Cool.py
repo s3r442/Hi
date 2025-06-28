@@ -1,2 +1,2 @@
 print("Cool!"),
-print("cool!")
+print("pay")
